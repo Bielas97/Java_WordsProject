@@ -1,0 +1,11 @@
+0 abbreviate skracac IELTS 0
+1 approach zblizacSie IELTS 0
+2 margin roznica IELTS 0
+3 inclined sklonny IELTS 0
+4 tutor korepetytor IELTS 0
+5 assumption zalozenie IELTS 0
+6 constraint przymus/ograniczenie IELTS 0
+7 toSoar wzbicSie IELTS 0
+8 plummet gwaltownieSpasc IELTS 0
+9 contribute przyczynicSie IELTS 0
+10 hello czesc IELTS 0
