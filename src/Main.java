@@ -21,6 +21,7 @@ import static java.awt.SystemColor.text;
  * User is asked to translate word from english to polish or the opposite
  * if the translation is wrong than "0" is added to stats, if opposite "1" is added
  * The program first want user to translate words the have the worst stats
+ * Don't bother reading not my best work.
  */
 public class Main extends Application {
 
