@@ -9,3 +9,4 @@
 8 plummet gwaltownieSpasc IELTS 0
 9 contribute przyczynicSie IELTS 0
 10 hello czesc IELTS 0
+11 wardrobe szafa IELTS 0
